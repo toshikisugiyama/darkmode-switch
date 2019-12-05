@@ -1,4 +1,5 @@
 # toggle-switch
+## A switch to dark-mode
 
 ## Project setup
 ```
